@@ -1,0 +1,21 @@
+.app-container {
+  display: flex;
+  justify-content: center;
+  background-color: #ffc2a0;
+  height: 100vh;
+  padding: 10px;
+}
+.card-container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: white;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 10px;
+}
+.list-container {
+  display: flex;
+  flex-direction: column;
+}
